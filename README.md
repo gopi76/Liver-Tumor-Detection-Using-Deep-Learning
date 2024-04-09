@@ -22,3 +22,9 @@ The project utilizes the following technologies:
 - **Django**: Web framework for building the user interface and handling user interactions.
 - **MySQL Database**: Database management system for storing and managing the information about the users.
 
+### Versions
+- Python   : 3.7.0
+- MySql    : 5.5
+- Editor   : Jupiter notebook (recommended) or VisualStudio   
+- other libraries versions are there. Use that only otherwise errors might come in your local system.
+
