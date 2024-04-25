@@ -28,10 +28,27 @@ The project utilizes the following technologies:
 - Editor   : Jupiter notebook (recommended) or VisualStudio   
 - other libraries versions are there. Use that only otherwise errors might come in your local system.
 
+### Note
+- I have uploaded files of required requirements ( python version and mysql version). <a href="https://drive.google.com/drive/folders/1xNZrCv-brEJmQ0ELoge_Q_57qGuJqEu4" target="_blank"><strong> Google Drive Link </strong></a>
+- I have included all python files as LiverTumorDetection Zip file. Extract the files in your PC.
+- Use same versions for libraries to or else you may face errors while running the program.
+
+### Dataset Information:
+- We have used around 755 images for this project. ( images and mask images also for noising).
+
+### Running Program Instructions
+- Once, all files are installed in your PC. Open the run.bat file (**must**)
+- Then paste the link in your browser. (**google**) [ http://127.0.0.1:8000/index.html ]
+- If you want to see the Algorithm code, then open Views.py file to view the program.
+- Login through the credentials (username: admin, password: admin)
+- Then click on Detect tumor option at menu bar. Then give the name and upload the image from test_images folder. Click on Submit button
+- You will get the output as i mentioned before in project overview.
+- Attached project images for better understanding.
+
 ### Contributors
 - Gopi Krishna [<a href ="https://www.linkedin.com/in/gopi76/" target="_blank">Linkedin</a>]
-- Vishnu Vardhan [<a href ="https://www.linkedin.com/in/alapati-vishnu-vardhan-0523501b7/" target="_blank">Linkedin</a>]
-- Palak Dalal [<a href ="https://www.linkedin.com/in/palak-dalal-18092001/" target="_blank">Linkedin</a>]
 - Hanuma Vijay [<a href ="https://www.linkedin.com/in/kancharla-ganesh-hanuma-vijay-8201b21b7/" target="_blank">Linkedin</a>]
+- Palak Dalal [<a href ="https://www.linkedin.com/in/palak-dalal-18092001/" target="_blank">Linkedin</a>]
+- Vishnu Vardhan [<a href ="https://www.linkedin.com/in/alapati-vishnu-vardhan-0523501b7/" target="_blank">Linkedin</a>]
 - Muhammed Naji [<a href ="https://www.linkedin.com/in/mhd-naji/" target="_blank">Linkedin</a>]
 
