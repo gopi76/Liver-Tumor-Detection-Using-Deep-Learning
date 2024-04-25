@@ -1,0 +1,8 @@
+create database Liver;
+use Liver;
+
+create table account(username varchar(30) primary key,
+password varchar(30));
+
+insert into account values('admin', 'admin');
+commit;
