@@ -1,0 +1,31 @@
+{% load static %}
+<html>
+<head>
+<title>Detection of Liver Tumors</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link href="{% static 'style.css' %}" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div class="main">
+  <div class="main_resize">
+    <div class="header">
+      <div class="logo">
+        <h1><span>Detection of Liver Tumors</span><small></small></h1>
+      </div>
+    </div>
+    <div class="content">
+      <div class="content_bg">
+        <div class="menu_nav">
+         <ul>      
+     <li><a href="{% url 'UpdateProfile' %}"><font size="3" color="black">Update Profile</a></li>
+	 <li><a href="{% url 'Detection' %}"><font size="3" color="black">Detect Tumor</a></li>
+	 <li><a href="{% url 'index' %}"><font size="3" color="black">Logout</a></li>
+   </ul>          
+        </div>
+        <div class="hbg"><img src="{% static 'images/header_images.jpg' %}" width="915" height="286" alt="" /></div>
+
+		<font size="3" color="red"><center>{{ data|safe }}</center></font>
+
+       
+  </body>
+</html>

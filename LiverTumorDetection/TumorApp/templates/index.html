@@ -1,0 +1,72 @@
+{% load static %}
+<html>
+<head>
+<title>Detection of Liver Tumors</title>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<link href="{% static 'style.css' %}" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div class="main">
+  <div class="main_resize">
+    <div class="header">
+      <div class="logo">
+        <h1><span>Detection of Liver Tumors</span><small></small></h1>
+      </div>
+    </div>
+    <div class="content">
+      <div class="content_bg">
+        <div class="menu_nav">
+           <ul>
+             <li><a href="{% url 'index' %}"><font size="3" color="black">Home</font></a></li>
+             <li><a href="{% url 'AdminLogin' %}"><font size="3" color="black">Admin Login Here</font></a></li>
+           </ul>
+        </div>
+        <div class="hbg"><img src="{% static 'images/header_images.jpg' %}" width="915" height="386" alt="" /></div>
+
+		{{ data }}
+
+        <p align="justify"><font size="3" style="font-family: Comic Sans MS margin-left: 20px;" color="black">The Liver Tumor Detection project aims to develop a user-friendly web application utilizing Deep Learning techniques for the detection of liver tumors in medical images. The key features of the project include: <p align="justify"><font size="3" style="font-family: Comic Sans MS" color="black"><b>GitHub Source Code:</b> <a href="https://github.com/gopi76/Liver-Tumor-Detection-Using-Deep-Learning" target="_blank">Link</a></font></p>
+</font></p>
+
+        <ul style="margin-top: 10px; margin-left: 20px;">
+          <li><font size="3" style="font-family: Comic Sans MS" color="black"><b>User-Friendly Web Application</b>: Designed and developed a web application using Python and the Django web framework. This application allows users to conveniently upload medical images for analysis.</font></li>
+          <li><font size="3" style="font-family: Comic Sans MS" color="black"><b>Tumor Detection</b>: The application employs Deep Learning algorithms to determine the presence or absence of liver tumors in the uploaded images. It also identifies the stage of tumors, locates them within the image, and provides users with a percentage representation of the affected area.</font></li>
+          <li><font size="3" style="font-family: Comic Sans MS" color="black"><b>Visualization</b>: The application visualizes the detected tumors separately, facilitating user-friendly interpretation of the results.</font></li>
+        </ul>
+
+        <p align="justify"><font size="3" style="font-family: Comic Sans MS" color="black"><strong>Tech Stack Used :</strong></font></p>
+
+        <ul style="margin-top: 5px; margin-left: 20px;">
+          <li><font size="3" style="font-family: Comic Sans MS" color="black"><b>Python</b>: Programming language used for backend development and implementing Deep Learning algorithms.</font></li>
+          <li><font size="3" style="font-family: Comic Sans MS" color="black"><b>Django</b>: Web framework for building the user interface and handling user interactions.</font></li>
+          <li><font size="3" style="font-family: Comic Sans MS" color="black"><b>MySQL Database</b>: Database management system for storing and managing the information about the users' credentials.</font></li>
+        </ul>
+
+<p align="justify"><font size="3" style="font-family: Comic Sans MS" color="black"><strong>Project Supervisor:</strong></font></p>
+<ul style="margin-top: 5px; margin-left: 20px;">
+          <li><font size="3" style="font-family: Comic Sans MS" color="black"><b>Dr. Senthil Kumar Janahan ( Associate Professor at Lovely Professional University )</b> [<a href ="https://www.linkedin.com/in/dr-senthil-kumar-janahan-511b5353/" target="_blank">LinkedIn</a>]</font></li>
+</ul>
+
+
+        <p align="justify"><font size="3" style="font-family: Comic Sans MS" color="black"><strong>Project Contributors :</strong></font></p>
+
+
+        <ul style="margin-top: 5px; margin-left: 20px;">
+          <li><font size="3" style="font-family: Comic Sans MS" color="black"><b>Gopi Krishna</b> [<a href ="https://www.linkedin.com/in/gopi76/" target="_blank">LinkedIn</a>]</font></li>
+          <li><font size="3" style="font-family: Comic Sans MS" color="black"><b>Vishnu Vardhan</b> [<a href ="https://www.linkedin.com/in/alapati-vishnu-vardhan-0523501b7/" target="_blank">LinkedIn</a>]</font></li>
+          <li><font size="3" style="font-family: Comic Sans MS" color="black"><b>Palak Dalal</b> [<a href ="https://www.linkedin.com/in/palak-dalal-18092001/" target="_blank">LinkedIn</a>]</font></li>
+          <li><font size="3" style="font-family: Comic Sans MS" color="black"><b>Hanuma Vijay</b> [<a href ="https://www.linkedin.com/in/kancharla-ganesh-hanuma-vijay-8201b21b7/" target="_blank">LinkedIn</a>]</font></li>
+          <li><font size="3" style="font-family: Comic Sans MS" color="black"><b>Muhammed Naji</b> [<a href ="https://www.linkedin.com/in/mhd-naji/" target="_blank">LinkedIn</a>]</font></li>
+        </ul>
+
+ <p align="justify"><font size="3" style="font-family: Comic Sans MS" color="black"><strong>Project Working Video :</strong></font></p>
+        
+      <iframe style="margin-top: 10px; margin-left: 20px;" width="960" height="430" src="https://www.youtube.com/embed/vpradBasRtM" frameborder="0" allowfullscreen></iframe>
+
+
+      </div>
+    </div>
+  </div>
+</div>
+</body>
+</html>
