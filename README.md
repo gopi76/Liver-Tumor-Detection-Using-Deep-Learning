@@ -20,11 +20,18 @@ The project utilizes the following technologies:
 
 - **Python**: Programming language used for backend development and implementing Deep Learning algorithms.
 - **Django**: Web framework for building the user interface and handling user interactions.
-- **MySQL Database**: Database management system for storing and managing the information about the users.
+- **MySQL Database**: Database management system for storing and managing the information about the users credentials.
 
 ### Versions
 - Python   : 3.7.0
 - MySql    : 5.5
 - Editor   : Jupiter notebook (recommended) or VisualStudio   
 - other libraries versions are there. Use that only otherwise errors might come in your local system.
+
+### Contributors
+- Gopi Krishna [<a href ="https://www.linkedin.com/in/gopi76/" target="_blank">Linkedin</a>]
+- Vishnu Vardhan [<a href ="https://www.linkedin.com/in/alapati-vishnu-vardhan-0523501b7/" target="_blank">Linkedin</a>]
+- Palak Dalal [<a href ="https://www.linkedin.com/in/palak-dalal-18092001/" target="_blank">Linkedin</a>]
+- Hanuma Vijay [<a href ="https://www.linkedin.com/in/kancharla-ganesh-hanuma-vijay-8201b21b7/" target="_blank">Linkedin</a>]
+- Muhammed Naji [<a href ="https://www.linkedin.com/in/mhd-naji/" target="_blank">Linkedin</a>]
 
