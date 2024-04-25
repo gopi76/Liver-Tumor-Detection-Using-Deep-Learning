@@ -67,5 +67,5 @@ The project utilizes the following technologies:
 - Muhammed Naji [<a href ="https://www.linkedin.com/in/mhd-naji/" target="_blank">Linkedin</a>]
 
 ### Output Video
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vpradBasRtM" frameborder="0" allowfullscreen></iframe>
+[![Demo Video](https://img.youtube.com/vi/vpradBasRtM/0.jpg)](https://www.youtube.com/embed/vpradBasRtM)
 
