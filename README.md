@@ -45,10 +45,27 @@ The project utilizes the following technologies:
 - You will get the output as i mentioned before in project overview.
 - Attached project images for better understanding.
 
-### Contributors
+### Project Images
+
+![Image 0](project_images/0.PNG)
+![Image 1](project_images/1.PNG)
+![Image 2](project_images/2.PNG)
+![Image 3](project_images/3.PNG)
+![Image 4](project_images/4.PNG)
+![Image 5](project_images/5.PNG)
+
+
+### Project Supervisor
+- Dr. Senthil Kumar Janahan ( Associate Professor at Lovely Professional University )</b> [<a href ="https://www.linkedin.com/in/dr-senthil-kumar-janahan-511b5353/" target="_blank">LinkedIn</a>]
+
+
+### Project Contributors
 - Gopi Krishna [<a href ="https://www.linkedin.com/in/gopi76/" target="_blank">Linkedin</a>]
 - Hanuma Vijay [<a href ="https://www.linkedin.com/in/kancharla-ganesh-hanuma-vijay-8201b21b7/" target="_blank">Linkedin</a>]
 - Palak Dalal [<a href ="https://www.linkedin.com/in/palak-dalal-18092001/" target="_blank">Linkedin</a>]
 - Vishnu Vardhan [<a href ="https://www.linkedin.com/in/alapati-vishnu-vardhan-0523501b7/" target="_blank">Linkedin</a>]
 - Muhammed Naji [<a href ="https://www.linkedin.com/in/mhd-naji/" target="_blank">Linkedin</a>]
+
+### Output Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vpradBasRtM" frameborder="0" allowfullscreen></iframe>
 
