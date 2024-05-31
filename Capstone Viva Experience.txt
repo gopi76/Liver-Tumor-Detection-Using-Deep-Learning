@@ -1,0 +1,37 @@
+
+1. what is convolution?
+
+2. what is CNN ? why not other algorithms?
+
+3. staff asked the contributions in this project. Based on their conributins, staff will ask some questions related to it
+
+
+for my friends who used django : asked questions like which framework u used, any other framworks have you tried
+
+have u used any api's. have you deployed this project in live?
+
+
+this was done on may 25, 2024. [ 2.00 pm to 4.00 pm ]
+
+only 2 staff (1 internal, 1 external )
+
+report bound copy and students should wear formals compulsory.
+
+
+to get good marks :
+1. present well and answer all viva questions
+2. get acceptance from ieee conferences and present your paper. 
+3. attacht the presentation certificate.
+4. if published means ,staff will give higher marks as compared to normal ones. 
+
+if published paper means, student the upload paper details like volume , wehre it is published , year, indexing all in UMS portal.
+
+// all the best for your future capstone project.
+
+Take this project as a reference. Update many features.
+
+suppose: user cna sleect the algorithm in web interface based on the algroithm it should give that algorithm accuracy based on the uploaded images
+
+
+Note:
+1. take this as reference only . do not copy paste all. try to learn and develop new ideas of AI features for user convience. 
