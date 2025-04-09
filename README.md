@@ -1,7 +1,5 @@
 # Liver Tumor Detection Using Deep Learning
 
-## Capstone Project (Final Year BTech CSE)
-
 This repository contains the source code and documentation for the Liver Tumor Detection project, which was developed as a part of the final year Bachelor of Technology in Computer Science and Engineering (BTech CSE) capstone project.
 
 ### Project Overview
@@ -67,5 +65,5 @@ The project utilizes the following technologies:
 - Muhammed Naji [<a href ="https://www.linkedin.com/in/mhd-naji/" target="_blank">Linkedin</a>]
 
 ### Output Video
-[![Demo Video](https://img.youtube.com/vi/vpradBasRtM/0.jpg)](https://www.youtube.com/embed/vpradBasRtM)
+[![Demo Video]((https://drive.google.com/file/d/1keww2HXV0lASPUB6a6Xy5r_jZ2USjAIM/view?usp=drive_link))]
 
