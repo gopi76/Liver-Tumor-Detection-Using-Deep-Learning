@@ -57,12 +57,6 @@ The project utilizes the following technologies:
 - Dr. Senthil Kumar Janahan ( Associate Professor at Lovely Professional University )</b> [<a href ="https://www.linkedin.com/in/dr-senthil-kumar-janahan-511b5353/" target="_blank">LinkedIn</a>]
 
 
-### Project Contributors
-- Gopi Krishna [<a href ="https://www.linkedin.com/in/gopi76/" target="_blank">Linkedin</a>]
-- Hanuma Vijay [<a href ="https://www.linkedin.com/in/kancharla-ganesh-hanuma-vijay-8201b21b7/" target="_blank">Linkedin</a>]
-- Palak Dalal [<a href ="https://www.linkedin.com/in/palak-dalal-18092001/" target="_blank">Linkedin</a>]
-- Vishnu Vardhan [<a href ="https://www.linkedin.com/in/alapati-vishnu-vardhan-0523501b7/" target="_blank">Linkedin</a>]
-- Muhammed Naji [<a href ="https://www.linkedin.com/in/mhd-naji/" target="_blank">Linkedin</a>]
 
 ### Output Video
 [![Demo Video]((https://drive.google.com/file/d/1keww2HXV0lASPUB6a6Xy5r_jZ2USjAIM/view?usp=drive_link))]
